@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: beige;
+}
+.mainContainer{
+    width: 600px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:whitesmoke;
+    overflow: hidden;
+    padding: 40px;
+}
+h2{
+    font-size: 70px;
+    font-family: Verdana;
+    text-transform: uppercase;
+    color: thistle;
+    text-align: center;
+}
+#border{
+    border: 5px solid rgb(138, 136, 136);
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+.a{
+    float: left;
+    clear: left;
+    margin-left: 250px;
+    margin-bottom: 5px;
+}
+.b{
+    float: left;
+    clear: left;
+    margin-left: 192px;
+    margin-bottom: 2px;
+
+}
+.c{
+    float: left;
+    margin-left: 5px;
+}
+.d{
+    float: left;
+    clear: left;
+    margin-left: 127px;
+}
+.e{
+    float: left;
+    margin-left: 5px;
+}
+.f{
+    float: left;
+    margin-left: 5px;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: firebrick;
+}
+.yellow{
+    color: yellow;
+}
+.turquoise{
+    color:turquoise
+}
+.black{
+    color: black;
+}
+.green{
+    color: green;
+}
